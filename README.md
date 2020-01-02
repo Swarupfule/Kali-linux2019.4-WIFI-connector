@@ -2,15 +2,15 @@
 
 Contents
     1)What is it
-    2)reason to create this
+    2)Reason to create this
     3)How to use
     5)Expected result
     
- 1)What is is
+ 1)What is it
      As realised kali linux 2019.4 i have notice there is no panel to handle wifi setting
   so. i have created with my little knowledge with python
   
- 2)reason to create this
+ 2)Reason to create this
     This is my first project on github.main reason for create this is to i want to get started with github
   also i have faced many problems in kali linux 2019.4 to use wifi
   
